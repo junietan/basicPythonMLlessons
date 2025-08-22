@@ -1,1 +1,1 @@
-# basicPythonMLlessons
+# Basic Python ML lessons
